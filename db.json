@@ -1,0 +1,886 @@
+{
+  "header": {
+    "top": {
+      "account": [
+        { "id": 1, "name": "account" },
+        { "id": 2, "name": "orders" },
+        { "id": 3, "name": "recommendations" },
+        { "id": 4, "name": "browsing history" },
+        { "id": 5, "name": "watchlist" },
+        { "id": 6, "name": "video purchases & rentals" },
+        { "id": 7, "name": "kindle unlimited" },
+        { "id": 8, "name": "content & devices" },
+        { "id": 9, "name": "subscribe & save items" },
+        { "id": 10, "name": "music library" }
+      ],
+      "lists": [
+        { "id": 1, "name": "Create a List" },
+        { "id": 2, "name": "Find a List or Registry" }
+      ]
+    },
+    "SideDraver": [
+      {
+        "id": 1,
+        "topic": "digital content & devices",
+        "item": [
+          {
+            "id": 1,
+            "name": "prime video",
+            "include": [
+              { "id": 1, "name": "all videos" },
+              { "id": 2, "name": "included with prime" },
+              { "id": 3, "name": "prime video channels" },
+              { "id": 4, "name": "rent or buy" },
+              { "id": 5, "name": "your watchlist" },
+              { "id": 6, "name": "watch anywhere" },
+              { "id": 7, "name": "getting started" }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "amazon music",
+            "include": [
+              { "id": 1, "name": "amazon music unlimited" },
+              { "id": 2, "name": "free streaming music" },
+              { "id": 3, "name": "podcast" },
+              { "id": 4, "name": "open web player" },
+              { "id": 5, "name": "download the app" }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "kindle E-readers",
+            "include": [
+              { "id": 1, "name": "meet the kindle family" },
+              { "id": 2, "name": "new kindle" },
+              { "id": 3, "name": "new kindle kids" },
+              { "id": 4, "name": "All-new kindle paperwhite" },
+              { "id": 5, "name": "introducing kindle colorsoft" },
+              { "id": 6, "name": "kindle books" },
+              { "id": 7, "name": "kindle unlimited" },
+              { "id": 8, "name": "prime reading" }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "amazon appstore",
+            "include": [
+              { "id": 1, "name": "appstore home" },
+              { "id": 2, "name": "search apps" },
+              { "id": 3, "name": "manage apps" },
+              { "id": 4, "name": "manage subscribe" },
+              { "id": 5, "name": "fire tablet apps" },
+              { "id": 6, "name": "help" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "topic": "shop by department",
+        "item": [
+          {
+            "id": 1,
+            "name": "electronics",
+            "include": [
+              { "id": 1, "name": "accessories & supplies" },
+              { "id": 2, "name": "camera & photo" },
+              { "id": 3, "name": "car & vehicle electronics" },
+              { "id": 4, "name": "cell phones & accesories" },
+              { "id": 4, "name": "computers & accesories" },
+              { "id": 5, "name": "GPS & navigation" },
+              { "id": 6, "name": "Headphones" },
+              { "id": 7, "name": "home audio" }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "computers",
+            "include": [
+              { "id": 1, "name": "computers & accesories" },
+              { "id": 2, "name": "computer components" },
+              { "id": 3, "name": "computer & tablets" },
+              { "id": 4, "name": "laptop accessories" },
+              { "id": 5, "name": "monitor" },
+              { "id": 6, "name": "networking products" },
+              { "id": 7, "name": "printer" },
+              { "id": 8, "name": "scanners" },
+              { "id": 9, "name": "servers" }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "smart home",
+            "include": [
+              { "id": 1, "name": "amazon smart home" },
+              { "id": 2, "name": "works with alexa devices" },
+              { "id": 3, "name": "smart home lighting" },
+              { "id": 4, "name": "smart locks and entery" },
+              { "id": 5, "name": "plugs and outlets" },
+              { "id": 6, "name": "new smart devices" },
+              { "id": 7, "name": "heating and cooling " },
+              { "id": 8, "name": "pet" }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "art & crafts",
+            "include": [
+              { "id": 1, "name": "painting, drawing & art supplies" },
+              { "id": 2, "name": "beading jewelry" },
+              { "id": 3, "name": "crafting" },
+              { "id": 4, "name": "fabric" },
+              { "id": 5, "name": "needlework" },
+              { "id": 6, "name": "printmaking" },
+              { "id": 7, "name": "sewing" },
+              { "id": 8, "name": "party decorations & supplies" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "topic": "programs & features",
+        "item": [
+          {
+            "id": 1,
+            "name": "gift cards",
+            "include": [
+              { "id": 1, "name": "shop by interst" },
+              { "id": 2, "name": "all gift cards" },
+              { "id": 3, "name": "eGift cards" },
+              { "id": 4, "name": "gift cards by email" },
+              { "id": 4, "name": "amazon cash" },
+              { "id": 5, "name": "speciality gift cards" },
+              { "id": 6, "name": "for businesses" },
+              { "id": 7, "name": "redeem a gift card" },
+              { "id": 8, "name": "reload your balance" },
+              { "id": 9, "name": "view your balance" }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "shop by interst"
+          },
+          {
+            "id": 3,
+            "name": "amazon live",
+            "include": [
+              { "id": 1, "name": "live" },
+              { "id": 2, "name": "recently live" }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "international shopping",
+            "include": [
+              { "id": 1, "name": "amazon global store" },
+              { "id": 2, "name": "wher we ship" },
+              { "id": 3, "name": "visit amazon clobal" }
+            ]
+          }
+        ]
+      }
+    ],
+    "bottom": [
+      { "id": 0, "name": "Today's deals" },
+      { "id": 1, "name": "registry" },
+      { "id": 2, "name": "prime video" },
+      { "id": 3, "name": "gift cards" },
+      { "id": 4, "name": "customer service" },
+      { "id": 5, "name": "sell" }
+    ]
+  },
+  "slider": {
+    "TopSlider": [
+      { "id": 0, "link": "../public/slider/1.jpg" },
+      { "id": 1, "link": "../public/slider/2.jpg" },
+      { "id": 2, "link": "../public/slider/3.jpg" },
+      { "id": 3, "link": "../public/slider/4.jpg" },
+      { "id": 4, "link": "../public/slider/5.jpg" }
+    ],
+    "product": {
+      "first": [
+        { "id": 0, "link": "../public/slider/International top sellers/1.jpg" },
+        { "id": 1, "link": "../public/slider/International top sellers/2.jpg" },
+        { "id": 2, "link": "../public/slider/International top sellers/3.jpg" },
+        { "id": 3, "link": "../public/slider/International top sellers/4.jpg" },
+        { "id": 4, "link": "../public/slider/International top sellers/5.jpg" },
+        { "id": 5, "link": "../public/slider/International top sellers/6.jpg" },
+        { "id": 6, "link": "../public/slider/International top sellers/7.jpg" },
+        { "id": 7, "link": "../public/slider/International top sellers/8.jpg" },
+        { "id": 8, "link": "../public/slider/International top sellers/9.jpg" },
+        {
+          "id": 9,
+          "link": "../public/slider/International top sellers/10.jpg"
+        },
+        {
+          "id": 10,
+          "link": "../public/slider/International top sellers/11.jpg"
+        },
+        {
+          "id": 11,
+          "link": "../public/slider/International top sellers/12.jpg"
+        },
+        {
+          "id": 12,
+          "link": "../public/slider/International top sellers/13.jpg"
+        },
+        {
+          "id": 13,
+          "link": "../public/slider/International top sellers/14.jpg"
+        }
+      ],
+      "second": [
+        {
+          "id": 0,
+          "link": "../public/slider/Top picks for United Kingdom/1.jpg"
+        },
+        {
+          "id": 1,
+          "link": "../public/slider/Top picks for United Kingdom/2.jpg"
+        },
+        {
+          "id": 2,
+          "link": "../public/slider/Top picks for United Kingdom/3.jpg"
+        },
+        {
+          "id": 3,
+          "link": "../public/slider/Top picks for United Kingdom/4.jpg"
+        },
+        {
+          "id": 4,
+          "link": "../public/slider/Top picks for United Kingdom/5.jpg"
+        },
+        {
+          "id": 5,
+          "link": "../public/slider/Top picks for United Kingdom/6.jpg"
+        },
+        {
+          "id": 6,
+          "link": "../public/slider/Top picks for United Kingdom/7.jpg"
+        },
+        {
+          "id": 7,
+          "link": "../public/slider/Top picks for United Kingdom/8.jpg"
+        },
+        {
+          "id": 8,
+          "link": "../public/slider/Top picks for United Kingdom/9.jpg"
+        },
+        {
+          "id": 9,
+          "link": "../public/slider/Top picks for United Kingdom/10.jpg"
+        },
+        {
+          "id": 10,
+          "link": "../public/slider/Top picks for United Kingdom/11.jpg"
+        },
+        {
+          "id": 11,
+          "link": "../public/slider/Top picks for United Kingdom/12.jpg"
+        },
+        {
+          "id": 12,
+          "link": "../public/slider/Top picks for United Kingdom/13.jpg"
+        },
+        {
+          "id": 13,
+          "link": "../public/slider/Top picks for United Kingdom/14.jpg"
+        }
+      ]
+    }
+  },
+  "products": {
+    "first": [
+      {
+        "id": 0,
+        "category": "Gaming accessories",
+        "items": [
+          {
+            "id": 0,
+            "name": "headsets",
+            "link": "../public/products/headset.jpg"
+          },
+          {
+            "id": 1,
+            "name": "keyboards",
+            "link": "../public/products/keyboard.jpg"
+          },
+          {
+            "id": 2,
+            "name": "computer mice",
+            "link": "../public/products/computer mice.jpg"
+          },
+          {
+            "id": 3,
+            "name": "chairs",
+            "link": "../public/products/chairs.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 1,
+        "category": "Shop deals in Fashion",
+        "items": [
+          {
+            "id": 0,
+            "name": "jeans under $20",
+            "link": "../public/products/jeans under $50 .jpg"
+          },
+          {
+            "id": 1,
+            "name": "tops under $15",
+            "link": "../public/products/top under $15.jpg"
+          },
+          {
+            "id": 2,
+            "name": "dresses under 30$",
+            "link": "../public/products/dresses under 30$.jpg"
+          },
+          {
+            "id": 3,
+            "name": "shoes under $50",
+            "link": "../public/products/shoes under $50.jpg"
+          }
+        ],
+        "extrs": "see all deals"
+      },
+      {
+        "id": 2,
+        "category": "Get your game on",
+        "items": [
+          {
+            "id": 0,
+            "name": "game",
+            "link": "../public/products/gaming.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 3,
+        "category": "Shop for your home essentials",
+        "items": [
+          {
+            "id": 0,
+            "name": "cleaning tool",
+            "link": "../public/products/CleaningTool.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Home storage",
+            "link": "../public/products/HomeStoragejpg.jpg"
+          },
+          {
+            "id": 2,
+            "name": "bedding",
+            "link": "../public/products/Bedding.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Home decor",
+            "link": "../public/products/HomeDecor.jpg"
+          }
+        ],
+        "extrs": "discover more in home"
+      },
+      {
+        "id": 12,
+        "category": "New home arrivals under $50",
+        "items": [
+          {
+            "id": 0,
+            "name": "kitchen & dining",
+            "link": "../public/products/kitchen & dining.jpg"
+          },
+          {
+            "id": 1,
+            "name": "home improvement",
+            "link": "../public/products/home improvement.jpg"
+          },
+          {
+            "id": 2,
+            "name": "decor",
+            "link": "../public/products/decor.jpg"
+          },
+          {
+            "id": 3,
+            "name": "bedding & bath",
+            "link": "../public/products/bedding & bath.jpg"
+          }
+        ],
+        "extrs": "shop the leatest from home"
+      },
+      {
+        "id": 13,
+        "category": "gifts for mother's day",
+        "items": [
+          {
+            "id": 0,
+            "name": "game",
+            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 14,
+        "category": "Wireless Tech",
+        "items": [
+          {
+            "id": 0,
+            "name": "watches",
+            "link": "../public/products/watches.jpg"
+          },
+          {
+            "id": 1,
+            "name": "headphones",
+            "link": "../public/products/headphones.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Smartphone",
+            "link": "../public/products/Smartphone.jpg"
+          },
+          {
+            "id": 3,
+            "name": "tablets",
+            "link": "../public/products/tablets.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      },
+      {
+        "id": 15,
+        "category": "Deals on top categories",
+        "items": [
+          {
+            "id": 0,
+            "name": "books",
+            "link": "../public/products/books.jpg"
+          },
+          {
+            "id": 1,
+            "name": "beauty",
+            "link": "../public/products/beauty.jpg"
+          },
+          {
+            "id": 2,
+            "name": "fashion",
+            "link": "../public/products/fashion.jpg"
+          },
+          {
+            "id": 3,
+            "name": "pc",
+            "link": "../public/products//pc.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      }
+    ],
+    "second": [
+      {
+        "id": 4,
+        "category": "New home arrivals under $50",
+        "items": [
+          {
+            "id": 0,
+            "name": "kitchen & dining",
+            "link": "../public/products/kitchen & dining.jpg"
+          },
+          {
+            "id": 1,
+            "name": "home improvement",
+            "link": "../public/products/home improvement.jpg"
+          },
+          {
+            "id": 2,
+            "name": "decor",
+            "link": "../public/products/decor.jpg"
+          },
+          {
+            "id": 3,
+            "name": "bedding & bath",
+            "link": "../public/products/bedding & bath.jpg"
+          }
+        ],
+        "extrs": "shop the leatest from home"
+      },
+      {
+        "id": 5,
+        "category": "gifts for mother's day",
+        "items": [
+          {
+            "id": 0,
+            "name": "game",
+            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 6,
+        "category": "Wireless Tech",
+        "items": [
+          {
+            "id": 0,
+            "name": "watches",
+            "link": "../public/products/watches.jpg"
+          },
+          {
+            "id": 1,
+            "name": "headphones",
+            "link": "../public/products/headphones.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Smartphone",
+            "link": "../public/products/Smartphone.jpg"
+          },
+          {
+            "id": 3,
+            "name": "tablets",
+            "link": "../public/products/tablets.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      },
+      {
+        "id": 7,
+        "category": "Deals on top categories",
+        "items": [
+          {
+            "id": 0,
+            "name": "books",
+            "link": "../public/products/books.jpg"
+          },
+          {
+            "id": 1,
+            "name": "beauty",
+            "link": "../public/products/beauty.jpg"
+          },
+          {
+            "id": 2,
+            "name": "fashion",
+            "link": "../public/products/fashion.jpg"
+          },
+          {
+            "id": 3,
+            "name": "pc",
+            "link": "../public/products//pc.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      }
+    ],
+    "third": [
+      {
+        "id": 8,
+        "category": "Gaming accessories",
+        "items": [
+          {
+            "id": 0,
+            "name": "headsets",
+            "link": "../public/products/headset.jpg"
+          },
+          {
+            "id": 1,
+            "name": "keyboards",
+            "link": "../public/products/keyboard.jpg"
+          },
+          {
+            "id": 2,
+            "name": "computer mice",
+            "link": "../public/products/computer mice.jpg"
+          },
+          {
+            "id": 3,
+            "name": "chairs",
+            "link": "../public/products/chairs.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 9,
+        "category": "Shop deals in Fashion",
+        "items": [
+          {
+            "id": 0,
+            "name": "jeans under $20",
+            "link": "../public/products/jeans under $50 .jpg"
+          },
+          {
+            "id": 1,
+            "name": "tops under $15",
+            "link": "../public/products/top under $15.jpg"
+          },
+          {
+            "id": 2,
+            "name": "dresses under 30$",
+            "link": "../public/products/dresses under 30$.jpg"
+          },
+          {
+            "id": 3,
+            "name": "shoes under $50",
+            "link": "../public/products/shoes under $50.jpg"
+          }
+        ],
+        "extrs": "see all deals"
+      },
+      {
+        "id": 10,
+        "category": "Get your game on",
+        "items": [
+          {
+            "id": 0,
+            "name": "game",
+            "link": "../public/products/gaming.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 11,
+        "category": "Shop for your home essentials",
+        "items": [
+          {
+            "id": 0,
+            "name": "cleaning tool",
+            "link": "../public/products/CleaningTool.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Home storage",
+            "link": "../public/products/HomeStoragejpg.jpg"
+          },
+          {
+            "id": 2,
+            "name": "bedding",
+            "link": "../public/products/Bedding.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Home decor",
+            "link": "../public/products/HomeDecor.jpg"
+          }
+        ],
+        "extrs": "discover more in home"
+      }
+    ],
+    "fourth": [
+      {
+        "id": 12,
+        "category": "New home arrivals under $50",
+        "items": [
+          {
+            "id": 0,
+            "name": "kitchen & dining",
+            "link": "../public/products/kitchen & dining.jpg"
+          },
+          {
+            "id": 1,
+            "name": "home improvement",
+            "link": "../public/products/home improvement.jpg"
+          },
+          {
+            "id": 2,
+            "name": "decor",
+            "link": "../public/products/decor.jpg"
+          },
+          {
+            "id": 3,
+            "name": "bedding & bath",
+            "link": "../public/products/bedding & bath.jpg"
+          }
+        ],
+        "extrs": "shop the leatest from home"
+      },
+      {
+        "id": 13,
+        "category": "gifts for mother's day",
+        "items": [
+          {
+            "id": 0,
+            "name": "game",
+            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+          }
+        ],
+        "extrs": "see more"
+      },
+      {
+        "id": 14,
+        "category": "Wireless Tech",
+        "items": [
+          {
+            "id": 0,
+            "name": "watches",
+            "link": "../public/products/watches.jpg"
+          },
+          {
+            "id": 1,
+            "name": "headphones",
+            "link": "../public/products/headphones.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Smartphone",
+            "link": "../public/products/Smartphone.jpg"
+          },
+          {
+            "id": 3,
+            "name": "tablets",
+            "link": "../public/products/tablets.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      },
+      {
+        "id": 15,
+        "category": "Deals on top categories",
+        "items": [
+          {
+            "id": 0,
+            "name": "books",
+            "link": "../public/products/books.jpg"
+          },
+          {
+            "id": 1,
+            "name": "beauty",
+            "link": "../public/products/beauty.jpg"
+          },
+          {
+            "id": 2,
+            "name": "fashion",
+            "link": "../public/products/fashion.jpg"
+          },
+          {
+            "id": 3,
+            "name": "pc",
+            "link": "../public/products//pc.jpg"
+          }
+        ],
+        "extrs": "discover more"
+      }
+    ]
+  },
+  "footer": {
+    "first": [
+      {
+        "id": 0,
+        "head": "Get to Know Us",
+        "include": [
+          { "id": 0, "name": "Careers" },
+          { "id": 1, "name": "Blog" },
+          { "id": 2, "name": "About Amazon" },
+          { "id": 3, "name": "Investor Relations" },
+          { "id": 4, "name": "Amazon Devices" },
+          { "id": 5, "name": "Amazon Science" }
+        ]
+      },
+      {
+        "id": 1,
+        "head": "Make Money with Us",
+        "include": [
+          { "id": 0, "name": "Sell products on Amazon" },
+          { "id": 1, "name": "Sell on Amazon Business" },
+          { "id": 2, "name": "Sell apps on Amazon" },
+          { "id": 3, "name": "Advertise Your Products" },
+          { "id": 4, "name": "Self-Publish with Us" },
+          { "id": 5, "name": "Host an Amazon Hub" },
+          { "id": 6, "name": "›See More Make Money with Us" }
+        ]
+      },
+      {
+        "id": 2,
+        "head": "Amazon Payment Products",
+        "include": [
+          { "id": 0, "name": "Amazon Business Card" },
+          { "id": 1, "name": "Shop with Points" },
+          { "id": 2, "name": "Reload Your Balance" },
+          { "id": 3, "name": "Amazon Currency Converter" }
+        ]
+      },
+      {
+        "id": 3,
+        "head": "Let Us Help You",
+        "include": [
+          { "id": 0, "name": "Amazon and COVID-19" },
+          { "id": 1, "name": "Your Account" },
+          { "id": 2, "name": "Your Orders" },
+          { "id": 3, "name": "Shipping Rates & Policies" },
+          { "id": 4, "name": "Returns & Replacements" },
+          { "id": 5, "name": "Manage Your Content and Devices" },
+          { "id": 6, "name": "help" }
+        ]
+      }
+    ],
+   "second": [
+  {
+    "col": 1,
+    "include": [
+      { "id": 0, "name": "Amazon Music", "detail": "Stream millions of songs" },
+      { "id": 1, "name": "Amazon Advertising", "detail": "Find, attract, and engage customers" },
+      { "id": 2, "name": "Amazon Drive", "detail": "Cloud storage from Amazon" },
+      { "id": 3, "name": "6pm", "detail": "Score deals on fashion brands" }
+    ]
+  },
+  {
+    "col": 2,
+    "include": [
+      { "id": 0, "name": "AbeBooks", "detail": "Books, art & collectibles" },
+      { "id": 1, "name": "ACX", "detail": "Audiobook Publishing Made Easy" },
+      { "id": 2, "name": "Sell on Amazon", "detail": "Start a Selling Account" },
+      { "id": 3, "name": "Amazon Business", "detail": "Everything For Your Business" }
+    ]
+  },
+  {
+    "col": 3,
+    "include": [
+      { "id": 0, "name": "AmazonGlobal", "detail": "Ship Orders Internationally" },
+      { "id": 1, "name": "Home Services", "detail": "Experienced Pros Happiness Guarantee" },
+      { "id": 2, "name": "Amazon Web Services", "detail": "Scalable Cloud Computing Services" },
+      { "id": 3, "name": "Audible", "detail": "Listen to Books & Original Audio Performances" }
+    ]
+  },
+  {
+    "col": 4,
+    "include": [
+      { "id": 0, "name": "Box Office Mojo", "detail": "Find Movie Box Office Data" },
+      { "id": 1, "name": "Goodreads", "detail": "Book reviews & recommendations" },
+      { "id": 2, "name": "IMDb", "detail": "Movies, TV & Celebrities" },
+      { "id": 3, "name": "IMDbPro", "detail": "Get Info Entertainment Professionals Need" }
+    ]
+  },
+  {
+    "col": 5,
+    "include": [
+      { "id": 0, "name": "Kindle Direct Publishing", "detail": "Indie Digital & Print Publishing Made Easy" },
+      { "id": 1, "name": "Prime Video Direct", "detail": "Video Distribution Made Easy" },
+      { "id": 2, "name": "Shopbop", "detail": "Designer Fashion Brands" },
+      { "id": 3, "name": "Woot!", "detail": "Deals and Shenanigans" }
+    ]
+  },
+  {
+    "col": 6,
+    "include": [
+      { "id": 0, "name": "Zappos", "detail": "Shoes & Clothing" },
+      { "id": 1, "name": "Ring", "detail": "Smart Home Security Systems" },
+      { "id": 2, "name": "eero WiFi", "detail": "Stream 4K Video in Every Room" },
+      { "id": 3, "name": "Blink", "detail": "Smart Security for Every Home" }
+    ]
+  },
+  {
+    "col": 7,
+    "include": [
+      { "id": 0, "name": "Neighbors App", "detail": "Real-Time Crime & Safety Alerts" },
+      { "id": 1, "name": "Amazon Subscription Boxes", "detail": "Top subscription boxes – right to your door" },
+      { "id": 2, "name": "PillPack", "detail": "Pharmacy Simplified" }
+    ]
+  }
+]
+
+  }
+}
