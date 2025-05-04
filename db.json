@@ -193,100 +193,142 @@
   },
   "slider": {
     "TopSlider": [
-      { "id": 0, "link": "../public/slider/1.jpg" },
-      { "id": 1, "link": "../public/slider/2.jpg" },
-      { "id": 2, "link": "../public/slider/3.jpg" },
-      { "id": 3, "link": "../public/slider/4.jpg" },
-      { "id": 4, "link": "../public/slider/5.jpg" }
+      {
+        "id": 0,
+        "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/1.jpg"
+      },
+      {
+        "id": 1,
+        "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/2.jpg"
+      },
+      {
+        "id": 2,
+        "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/3.jpg"
+      },
+      {
+        "id": 3,
+        "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/4.jpg"
+      },
+      {
+        "id": 4,
+        "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/5.jpg"
+      }
     ],
     "product": {
       "first": [
-        { "id": 0, "link": "../public/slider/International top sellers/1.jpg" },
-        { "id": 1, "link": "../public/slider/International top sellers/2.jpg" },
-        { "id": 2, "link": "../public/slider/International top sellers/3.jpg" },
-        { "id": 3, "link": "../public/slider/International top sellers/4.jpg" },
-        { "id": 4, "link": "../public/slider/International top sellers/5.jpg" },
-        { "id": 5, "link": "../public/slider/International top sellers/6.jpg" },
-        { "id": 6, "link": "../public/slider/International top sellers/7.jpg" },
-        { "id": 7, "link": "../public/slider/International top sellers/8.jpg" },
-        { "id": 8, "link": "../public/slider/International top sellers/9.jpg" },
+        {
+          "id": 0,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/1.jpg"
+        },
+        {
+          "id": 1,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/10.jpg"
+        },
+        {
+          "id": 2,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/11.jpg"
+        },
+        {
+          "id": 3,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/11.jpg"
+        },
+        {
+          "id": 4,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/12.jpg"
+        },
+        {
+          "id": 5,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/13.jpg"
+        },
+        {
+          "id": 6,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/14.jpg"
+        },
+        {
+          "id": 7,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/2.jpg"
+        },
+        {
+          "id": 8,
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/5.jpg"
+        },
         {
           "id": 9,
-          "link": "../public/slider/International top sellers/10.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/6.jpg"
         },
         {
           "id": 10,
-          "link": "../public/slider/International top sellers/11.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/8.jpg"
         },
         {
           "id": 11,
-          "link": "../public/slider/International top sellers/12.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/9.jpg"
         },
         {
           "id": 12,
-          "link": "../public/slider/International top sellers/13.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/15.jpg"
         },
         {
           "id": 13,
-          "link": "../public/slider/International top sellers/14.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/International%20top%20sellers/3.jpg"
         }
       ],
       "second": [
         {
           "id": 0,
-          "link": "../public/slider/Top picks for United Kingdom/1.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/1.jpg "
         },
         {
           "id": 1,
-          "link": "../public/slider/Top picks for United Kingdom/2.jpg"
+          "link": " https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/10.jpg  "
         },
         {
           "id": 2,
-          "link": "../public/slider/Top picks for United Kingdom/3.jpg"
+          "link": "  https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/11.jpg "
         },
         {
           "id": 3,
-          "link": "../public/slider/Top picks for United Kingdom/4.jpg"
+          "link": "   https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/12.jpg"
         },
         {
           "id": 4,
-          "link": "../public/slider/Top picks for United Kingdom/5.jpg"
+          "link": "   https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/13.jpg"
         },
         {
           "id": 5,
-          "link": "../public/slider/Top picks for United Kingdom/6.jpg"
+          "link": "   https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/14.jpg"
         },
         {
           "id": 6,
-          "link": "../public/slider/Top picks for United Kingdom/7.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/2.jpg   "
         },
         {
           "id": 7,
-          "link": "../public/slider/Top picks for United Kingdom/8.jpg"
+          "link": " https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/3.jpg  "
         },
         {
           "id": 8,
-          "link": "../public/slider/Top picks for United Kingdom/9.jpg"
+          "link": "   https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/4.jpg"
         },
         {
           "id": 9,
-          "link": "../public/slider/Top picks for United Kingdom/10.jpg"
+          "link": "  https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/5.jpg"
         },
         {
           "id": 10,
-          "link": "../public/slider/Top picks for United Kingdom/11.jpg"
+          "link": " https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/6.jpg"
         },
         {
           "id": 11,
-          "link": "../public/slider/Top picks for United Kingdom/12.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/7.jpg "
         },
         {
           "id": 12,
-          "link": "../public/slider/Top picks for United Kingdom/13.jpg"
+          "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/8.jpg "
         },
         {
           "id": 13,
-          "link": "../public/slider/Top picks for United Kingdom/14.jpg"
+          "link": " https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/slider/Top%20picks%20for%20United%20Kingdom/9.jpg"
         }
       ]
     }
@@ -300,22 +342,22 @@
           {
             "id": 0,
             "name": "headsets",
-            "link": "../public/products/headset.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/headset.jpg"
           },
           {
             "id": 1,
             "name": "keyboards",
-            "link": "../public/products/keyboard.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/keyboard.jpg"
           },
           {
             "id": 2,
             "name": "computer mice",
-            "link": "../public/products/computer mice.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/computer%20mice.jpg"
           },
           {
             "id": 3,
             "name": "chairs",
-            "link": "../public/products/chairs.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/chairs.jpg"
           }
         ],
         "extrs": "see more"
@@ -327,22 +369,22 @@
           {
             "id": 0,
             "name": "jeans under $20",
-            "link": "../public/products/jeans under $50 .jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/jeans%20under%20%2450%20.jpg"
           },
           {
             "id": 1,
             "name": "tops under $15",
-            "link": "../public/products/top under $15.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/top%20under%20%2415.jpg"
           },
           {
             "id": 2,
             "name": "dresses under 30$",
-            "link": "../public/products/dresses under 30$.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/dresses%20under%2030%24.jpg"
           },
           {
             "id": 3,
             "name": "shoes under $50",
-            "link": "../public/products/shoes under $50.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/shoes%20under%20%2450.jpg"
           }
         ],
         "extrs": "see all deals"
@@ -354,7 +396,7 @@
           {
             "id": 0,
             "name": "game",
-            "link": "../public/products/gaming.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/gaming.jpg"
           }
         ],
         "extrs": "see more"
@@ -366,22 +408,22 @@
           {
             "id": 0,
             "name": "cleaning tool",
-            "link": "../public/products/CleaningTool.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/CleaningTool.jpg"
           },
           {
             "id": 1,
             "name": "Home storage",
-            "link": "../public/products/HomeStoragejpg.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/HomeStoragejpg.jpg"
           },
           {
             "id": 2,
             "name": "bedding",
-            "link": "../public/products/Bedding.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Bedding.jpg"
           },
           {
             "id": 3,
             "name": "Home decor",
-            "link": "../public/products/HomeDecor.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/HomeDecor.jpg"
           }
         ],
         "extrs": "discover more in home"
@@ -393,22 +435,22 @@
           {
             "id": 0,
             "name": "kitchen & dining",
-            "link": "../public/products/kitchen & dining.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/kitchen%20%26%20dining.jpg"
           },
           {
             "id": 1,
             "name": "home improvement",
-            "link": "../public/products/home improvement.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/home%20improvement.jpg"
           },
           {
             "id": 2,
             "name": "decor",
-            "link": "../public/products/decor.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/decor.jpg"
           },
           {
             "id": 3,
             "name": "bedding & bath",
-            "link": "../public/products/bedding & bath.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/bedding%20%26%20bath.jpg"
           }
         ],
         "extrs": "shop the leatest from home"
@@ -420,7 +462,7 @@
           {
             "id": 0,
             "name": "game",
-            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
           }
         ],
         "extrs": "see more"
@@ -432,22 +474,22 @@
           {
             "id": 0,
             "name": "watches",
-            "link": "../public/products/watches.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/watches.jpg"
           },
           {
             "id": 1,
             "name": "headphones",
-            "link": "../public/products/headphones.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/headphones.jpg"
           },
           {
             "id": 2,
             "name": "Smartphone",
-            "link": "../public/products/Smartphone.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Smartphone.jpg"
           },
           {
             "id": 3,
             "name": "tablets",
-            "link": "../public/products/tablets.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/tablets.jpg"
           }
         ],
         "extrs": "discover more"
@@ -459,22 +501,22 @@
           {
             "id": 0,
             "name": "books",
-            "link": "../public/products/books.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/books.jpg"
           },
           {
             "id": 1,
             "name": "beauty",
-            "link": "../public/products/beauty.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/beauty.jpg"
           },
           {
             "id": 2,
             "name": "fashion",
-            "link": "../public/products/fashion.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/fashion.jpg"
           },
           {
             "id": 3,
             "name": "pc",
-            "link": "../public/products//pc.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/pc.jpg"
           }
         ],
         "extrs": "discover more"
@@ -488,22 +530,22 @@
           {
             "id": 0,
             "name": "kitchen & dining",
-            "link": "../public/products/kitchen & dining.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/kitchen%20%26%20dining.jpg"
           },
           {
             "id": 1,
             "name": "home improvement",
-            "link": "../public/products/home improvement.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/home%20improvement.jpg"
           },
           {
             "id": 2,
             "name": "decor",
-            "link": "../public/products/decor.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/decor.jpg"
           },
           {
             "id": 3,
             "name": "bedding & bath",
-            "link": "../public/products/bedding & bath.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/bedding%20%26%20bath.jpg"
           }
         ],
         "extrs": "shop the leatest from home"
@@ -515,7 +557,7 @@
           {
             "id": 0,
             "name": "game",
-            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
           }
         ],
         "extrs": "see more"
@@ -527,22 +569,22 @@
           {
             "id": 0,
             "name": "watches",
-            "link": "../public/products/watches.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/watches.jpg"
           },
           {
             "id": 1,
             "name": "headphones",
-            "link": "../public/products/headphones.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/headphones.jpg"
           },
           {
             "id": 2,
             "name": "Smartphone",
-            "link": "../public/products/Smartphone.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Smartphone.jpg"
           },
           {
             "id": 3,
             "name": "tablets",
-            "link": "../public/products/tablets.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/tablets.jpg"
           }
         ],
         "extrs": "discover more"
@@ -554,22 +596,22 @@
           {
             "id": 0,
             "name": "books",
-            "link": "../public/products/books.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/books.jpg"
           },
           {
             "id": 1,
             "name": "beauty",
-            "link": "../public/products/beauty.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/beauty.jpg"
           },
           {
             "id": 2,
             "name": "fashion",
-            "link": "../public/products/fashion.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/fashion.jpg"
           },
           {
             "id": 3,
             "name": "pc",
-            "link": "../public/products//pc.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/pc.jpg"
           }
         ],
         "extrs": "discover more"
@@ -583,22 +625,22 @@
           {
             "id": 0,
             "name": "headsets",
-            "link": "../public/products/headset.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/headset.jpg"
           },
           {
             "id": 1,
             "name": "keyboards",
-            "link": "../public/products/keyboard.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/keyboard.jpg"
           },
           {
             "id": 2,
             "name": "computer mice",
-            "link": "../public/products/computer mice.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/computer%20mice.jpg"
           },
           {
             "id": 3,
             "name": "chairs",
-            "link": "../public/products/chairs.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/chairs.jpg"
           }
         ],
         "extrs": "see more"
@@ -610,22 +652,22 @@
           {
             "id": 0,
             "name": "jeans under $20",
-            "link": "../public/products/jeans under $50 .jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/jeans%20under%20%2450%20.jpg"
           },
           {
             "id": 1,
             "name": "tops under $15",
-            "link": "../public/products/top under $15.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/top%20under%20%2415.jpg"
           },
           {
             "id": 2,
             "name": "dresses under 30$",
-            "link": "../public/products/dresses under 30$.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/dresses%20under%2030%24.jpg"
           },
           {
             "id": 3,
             "name": "shoes under $50",
-            "link": "../public/products/shoes under $50.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/shoes%20under%20%2450.jpg"
           }
         ],
         "extrs": "see all deals"
@@ -637,7 +679,7 @@
           {
             "id": 0,
             "name": "game",
-            "link": "../public/products/gaming.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/gaming.jpg"
           }
         ],
         "extrs": "see more"
@@ -649,22 +691,22 @@
           {
             "id": 0,
             "name": "cleaning tool",
-            "link": "../public/products/CleaningTool.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/CleaningTool.jpg"
           },
           {
             "id": 1,
             "name": "Home storage",
-            "link": "../public/products/HomeStoragejpg.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/HomeStoragejpg.jpg"
           },
           {
             "id": 2,
             "name": "bedding",
-            "link": "../public/products/Bedding.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Bedding.jpg"
           },
           {
             "id": 3,
             "name": "Home decor",
-            "link": "../public/products/HomeDecor.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/HomeDecor.jpg"
           }
         ],
         "extrs": "discover more in home"
@@ -678,22 +720,22 @@
           {
             "id": 0,
             "name": "kitchen & dining",
-            "link": "../public/products/kitchen & dining.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/kitchen%20%26%20dining.jpg"
           },
           {
             "id": 1,
             "name": "home improvement",
-            "link": "../public/products/home improvement.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/home%20improvement.jpg"
           },
           {
             "id": 2,
             "name": "decor",
-            "link": "../public/products/decor.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/decor.jpg"
           },
           {
             "id": 3,
             "name": "bedding & bath",
-            "link": "../public/products/bedding & bath.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/bedding%20%26%20bath.jpg"
           }
         ],
         "extrs": "shop the leatest from home"
@@ -705,7 +747,7 @@
           {
             "id": 0,
             "name": "game",
-            "link": "../public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Fuji_MD25_SingleImageCard_2x._SY.jpg"
           }
         ],
         "extrs": "see more"
@@ -717,22 +759,22 @@
           {
             "id": 0,
             "name": "watches",
-            "link": "../public/products/watches.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/watches.jpg"
           },
           {
             "id": 1,
             "name": "headphones",
-            "link": "../public/products/headphones.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/headphones.jpg"
           },
           {
             "id": 2,
             "name": "Smartphone",
-            "link": "../public/products/Smartphone.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/Smartphone.jpg"
           },
           {
             "id": 3,
             "name": "tablets",
-            "link": "../public/products/tablets.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/tablets.jpg"
           }
         ],
         "extrs": "discover more"
@@ -744,22 +786,22 @@
           {
             "id": 0,
             "name": "books",
-            "link": "../public/products/books.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/books.jpg"
           },
           {
             "id": 1,
             "name": "beauty",
-            "link": "../public/products/beauty.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/beauty.jpg"
           },
           {
             "id": 2,
             "name": "fashion",
-            "link": "../public/products/fashion.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/fashion.jpg"
           },
           {
             "id": 3,
             "name": "pc",
-            "link": "../public/products//pc.jpg"
+            "link": "https://raw.githubusercontent.com/HediehJafarpour/AmazonAPI/refs/heads/main/public/products/pc.jpg"
           }
         ],
         "extrs": "discover more"
@@ -817,70 +859,149 @@
         ]
       }
     ],
-   "second": [
-  {
-    "col": 1,
-    "include": [
-      { "id": 0, "name": "Amazon Music", "detail": "Stream millions of songs" },
-      { "id": 1, "name": "Amazon Advertising", "detail": "Find, attract, and engage customers" },
-      { "id": 2, "name": "Amazon Drive", "detail": "Cloud storage from Amazon" },
-      { "id": 3, "name": "6pm", "detail": "Score deals on fashion brands" }
+    "second": [
+      {
+        "col": 1,
+        "include": [
+          {
+            "id": 0,
+            "name": "Amazon Music",
+            "detail": "Stream millions of songs"
+          },
+          {
+            "id": 1,
+            "name": "Amazon Advertising",
+            "detail": "Find, attract, and engage customers"
+          },
+          {
+            "id": 2,
+            "name": "Amazon Drive",
+            "detail": "Cloud storage from Amazon"
+          },
+          { "id": 3, "name": "6pm", "detail": "Score deals on fashion brands" }
+        ]
+      },
+      {
+        "col": 2,
+        "include": [
+          {
+            "id": 0,
+            "name": "AbeBooks",
+            "detail": "Books, art & collectibles"
+          },
+          {
+            "id": 1,
+            "name": "ACX",
+            "detail": "Audiobook Publishing Made Easy"
+          },
+          {
+            "id": 2,
+            "name": "Sell on Amazon",
+            "detail": "Start a Selling Account"
+          },
+          {
+            "id": 3,
+            "name": "Amazon Business",
+            "detail": "Everything For Your Business"
+          }
+        ]
+      },
+      {
+        "col": 3,
+        "include": [
+          {
+            "id": 0,
+            "name": "AmazonGlobal",
+            "detail": "Ship Orders Internationally"
+          },
+          {
+            "id": 1,
+            "name": "Home Services",
+            "detail": "Experienced Pros Happiness Guarantee"
+          },
+          {
+            "id": 2,
+            "name": "Amazon Web Services",
+            "detail": "Scalable Cloud Computing Services"
+          },
+          {
+            "id": 3,
+            "name": "Audible",
+            "detail": "Listen to Books & Original Audio Performances"
+          }
+        ]
+      },
+      {
+        "col": 4,
+        "include": [
+          {
+            "id": 0,
+            "name": "Box Office Mojo",
+            "detail": "Find Movie Box Office Data"
+          },
+          {
+            "id": 1,
+            "name": "Goodreads",
+            "detail": "Book reviews & recommendations"
+          },
+          { "id": 2, "name": "IMDb", "detail": "Movies, TV & Celebrities" },
+          {
+            "id": 3,
+            "name": "IMDbPro",
+            "detail": "Get Info Entertainment Professionals Need"
+          }
+        ]
+      },
+      {
+        "col": 5,
+        "include": [
+          {
+            "id": 0,
+            "name": "Kindle Direct Publishing",
+            "detail": "Indie Digital & Print Publishing Made Easy"
+          },
+          {
+            "id": 1,
+            "name": "Prime Video Direct",
+            "detail": "Video Distribution Made Easy"
+          },
+          { "id": 2, "name": "Shopbop", "detail": "Designer Fashion Brands" },
+          { "id": 3, "name": "Woot!", "detail": "Deals and Shenanigans" }
+        ]
+      },
+      {
+        "col": 6,
+        "include": [
+          { "id": 0, "name": "Zappos", "detail": "Shoes & Clothing" },
+          { "id": 1, "name": "Ring", "detail": "Smart Home Security Systems" },
+          {
+            "id": 2,
+            "name": "eero WiFi",
+            "detail": "Stream 4K Video in Every Room"
+          },
+          {
+            "id": 3,
+            "name": "Blink",
+            "detail": "Smart Security for Every Home"
+          }
+        ]
+      },
+      {
+        "col": 7,
+        "include": [
+          {
+            "id": 0,
+            "name": "Neighbors App",
+            "detail": "Real-Time Crime & Safety Alerts"
+          },
+          {
+            "id": 1,
+            "name": "Amazon Subscription Boxes",
+            "detail": "Top subscription boxes – right to your door"
+          },
+          { "id": 2, "name": "PillPack", "detail": "Pharmacy Simplified" }
+        ]
+      }
     ]
-  },
-  {
-    "col": 2,
-    "include": [
-      { "id": 0, "name": "AbeBooks", "detail": "Books, art & collectibles" },
-      { "id": 1, "name": "ACX", "detail": "Audiobook Publishing Made Easy" },
-      { "id": 2, "name": "Sell on Amazon", "detail": "Start a Selling Account" },
-      { "id": 3, "name": "Amazon Business", "detail": "Everything For Your Business" }
-    ]
-  },
-  {
-    "col": 3,
-    "include": [
-      { "id": 0, "name": "AmazonGlobal", "detail": "Ship Orders Internationally" },
-      { "id": 1, "name": "Home Services", "detail": "Experienced Pros Happiness Guarantee" },
-      { "id": 2, "name": "Amazon Web Services", "detail": "Scalable Cloud Computing Services" },
-      { "id": 3, "name": "Audible", "detail": "Listen to Books & Original Audio Performances" }
-    ]
-  },
-  {
-    "col": 4,
-    "include": [
-      { "id": 0, "name": "Box Office Mojo", "detail": "Find Movie Box Office Data" },
-      { "id": 1, "name": "Goodreads", "detail": "Book reviews & recommendations" },
-      { "id": 2, "name": "IMDb", "detail": "Movies, TV & Celebrities" },
-      { "id": 3, "name": "IMDbPro", "detail": "Get Info Entertainment Professionals Need" }
-    ]
-  },
-  {
-    "col": 5,
-    "include": [
-      { "id": 0, "name": "Kindle Direct Publishing", "detail": "Indie Digital & Print Publishing Made Easy" },
-      { "id": 1, "name": "Prime Video Direct", "detail": "Video Distribution Made Easy" },
-      { "id": 2, "name": "Shopbop", "detail": "Designer Fashion Brands" },
-      { "id": 3, "name": "Woot!", "detail": "Deals and Shenanigans" }
-    ]
-  },
-  {
-    "col": 6,
-    "include": [
-      { "id": 0, "name": "Zappos", "detail": "Shoes & Clothing" },
-      { "id": 1, "name": "Ring", "detail": "Smart Home Security Systems" },
-      { "id": 2, "name": "eero WiFi", "detail": "Stream 4K Video in Every Room" },
-      { "id": 3, "name": "Blink", "detail": "Smart Security for Every Home" }
-    ]
-  },
-  {
-    "col": 7,
-    "include": [
-      { "id": 0, "name": "Neighbors App", "detail": "Real-Time Crime & Safety Alerts" },
-      { "id": 1, "name": "Amazon Subscription Boxes", "detail": "Top subscription boxes – right to your door" },
-      { "id": 2, "name": "PillPack", "detail": "Pharmacy Simplified" }
-    ]
-  }
-]
-
   }
 }
